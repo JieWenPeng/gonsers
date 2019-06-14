@@ -18,4 +18,8 @@ public class it {
         int i = 1;
         i = i+10;
     }
+    public void test1() {
+        int i = 1;
+        i = i+10;
+    }
 }
