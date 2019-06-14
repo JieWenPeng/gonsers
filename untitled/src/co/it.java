@@ -14,4 +14,8 @@ public class it {
         System.out.println("1");
         System.out.println("1");
     }
+    public void test() {
+        int i = 1;
+        i = i+10;
+    }
 }
