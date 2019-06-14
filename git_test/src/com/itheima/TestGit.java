@@ -12,5 +12,10 @@ public class TestGit {
         System.out.println("oo");
         System.out.println("oo");
         System.out.println("oo");
+        System.out.println("oo");
+        System.out.println("oo");
+        System.out.println("oo");
+        System.out.println("oo");
+        System.out.println("oo");
     }
 }
